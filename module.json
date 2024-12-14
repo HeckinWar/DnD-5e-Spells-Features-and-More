@@ -7,8 +7,8 @@
     "verified": "12.3.3.1"
   },
   "url":"https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More",
-  "maifest":"",
-  "downloadd":"",
+  "maifest":"https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/module.json",
+  "download":"https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/DnD-5e-Spells-Features-and-More.zip",
   "packs": [
     {
       "name": "spells",
