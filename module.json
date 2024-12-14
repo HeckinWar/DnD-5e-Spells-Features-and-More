@@ -1,14 +1,15 @@
 {
   "id": "dnd-5e-spells-features-and-more",
   "title": "DnD 5e Spells, Features, & More",
-  "version": "1.0.0",
+  "version": "0.1.2",
   "compatibility": {
     "minimum": "11.0",
-    "verified": "12.3.3.1"
+    "verified": "12.3.3.0",
+    "maximum": "12.3.3.1"
   },
-  "url":"https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More",
-  "maifest":"https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/module.json",
-  "download":"https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/DnD-5e-Spells-Features-and-More.zip",
+  "url": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More",
+  "manifest": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/module.json",
+  "download": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/DnD-5e-Spells-Features-and-More.zip",
   "packs": [
     {
       "name": "spells",
@@ -81,11 +82,11 @@
       "label": "Tables",
       "path": "packs/tables",
       "type": "RollTable",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ]
 }
