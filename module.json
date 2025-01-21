@@ -1,10 +1,10 @@
 {
   "id": "dnd-5e-spells-features-and-more",
   "title": "DnD 5e Spells, Features, & More",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "compatibility": {
     "minimum": "11.0",
-    "verified": "12.3.3.0"
+    "verified": "12.3.3.1"
   },
   "url": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More",
   "manifest": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/module.json",
