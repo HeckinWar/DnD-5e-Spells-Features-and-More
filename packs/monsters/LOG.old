@@ -1,7 +1,3 @@
-2025/01/20-18:54:14.573 4cd0 Recovering log #621
-2025/01/20-18:54:14.575 4cd0 Delete type=0 #621
-2025/01/20-18:54:14.575 4cd0 Delete type=3 #619
-2025/01/20-21:26:15.299 4168 Level-0 table #626: started
-2025/01/20-21:26:15.299 4168 Level-0 table #626: 0 bytes OK
-2025/01/20-21:26:15.300 4168 Delete type=0 #624
-2025/01/20-21:26:15.300 4168 Manual compaction at level-0 from '!actors!1Lox75jvqwcCxuRn' @ 72057594037927935 : 1 .. '!folders!EVLORaN5VdIex3vz' @ 0 : 0; will stop at (end)
+2025/01/24-16:45:57.673 70a4 Recovering log #641
+2025/01/24-16:45:57.674 70a4 Delete type=0 #641
+2025/01/24-16:45:57.674 70a4 Delete type=3 #639
