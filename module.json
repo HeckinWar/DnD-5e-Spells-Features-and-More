@@ -1,7 +1,7 @@
 {
   "id": "dnd-5e-spells-features-and-more",
   "title": "DnD 5e Spells, Features, & More",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "compatibility": {
     "minimum": "11.0",
     "verified": "12.331"
@@ -87,5 +87,29 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "ActiveAuras",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "ATL",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
 }
