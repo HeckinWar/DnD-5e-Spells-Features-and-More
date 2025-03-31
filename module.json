@@ -1,7 +1,7 @@
 {
   "id": "dnd-5e-spells-features-and-more",
   "title": "DnD 5e Spells, Features, & More",
-  "version": "0.1.7",
+  "version": "0.2",
   "compatibility": {
     "minimum": "11.0",
     "verified": "12.331"
