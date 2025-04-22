@@ -1,7 +1,7 @@
 {
   "id": "dnd-5e-spells-features-and-more",
   "title": "DnD 5e Spells, Features, & More",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "compatibility": {
     "minimum": "11.0",
     "verified": "12.331"
@@ -111,6 +111,14 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    }
+  ],
+  "packFolders":[
+    {
+      "name": "DnD 5e Spells, Features, & More",
+      "color": "#1b640c",
+      "sorting": "a",
+      "pakcs": ["spells", "features", "classes-and-subclasses", "races", "backgrounds", "monsters", "tables", "journels"]
     }
   ],
   "relationships": {
