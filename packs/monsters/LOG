@@ -1,11 +1,3 @@
-2025/04/22-18:12:11.759 7bcc Recovering log #930
-2025/04/22-18:12:11.770 7bcc Level-0 table #932: started
-2025/04/22-18:12:11.778 7bcc Level-0 table #932: 845772 bytes OK
-2025/04/22-18:12:11.779 7bcc Delete type=0 #930
-2025/04/22-18:12:11.780 7bcc Delete type=3 #929
-2025/04/22-18:12:12.095 f58 Compacting 1@0 + 1@1 files
-2025/04/22-18:12:12.100 f58 Generated table #934@0: 183 keys, 256684 bytes
-2025/04/22-18:12:12.100 f58 Compacted 1@0 + 1@1 files => 256684 bytes
-2025/04/22-18:12:12.101 f58 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/22-18:12:12.101 f58 Delete type=2 #920
-2025/04/22-18:12:12.101 f58 Delete type=2 #932
+2025/04/23-16:39:51.030 3738 Recovering log #969
+2025/04/23-16:39:51.031 3738 Delete type=0 #969
+2025/04/23-16:39:51.031 3738 Delete type=3 #967
