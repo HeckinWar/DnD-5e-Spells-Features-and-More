@@ -1,6 +1,8 @@
-2025/04/23-15:08:31.126 3ff4 Recovering log #218
-2025/04/23-15:08:31.129 3ff4 Level-0 table #221: started
-2025/04/23-15:08:31.139 3ff4 Level-0 table #221: 1003163 bytes OK
-2025/04/23-15:08:31.140 3ff4 Delete type=0 #218
-2025/04/23-15:08:31.141 3ff4 Delete type=3 #216
-2025/04/23-15:10:10.718 6cb0 Moved #221 to level-1 1003163 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/04/25-17:58:31.270 1d8c Recovering log #256
+2025/04/25-17:58:31.271 1d8c Delete type=0 #256
+2025/04/25-17:58:31.271 1d8c Delete type=3 #254
+2025/04/25-18:05:09.266 639c Level-0 table #261: started
+2025/04/25-18:05:09.266 639c Level-0 table #261: 0 bytes OK
+2025/04/25-18:05:09.266 639c Delete type=0 #259
+2025/04/25-18:05:09.266 639c Manual compaction at level-0 from '!journal!DgSmxMOSbH6VpRrg' @ 72057594037927935 : 1 .. '!journal.pages!nP3YFiEtCypw5kvn.ZIvSGEavm9pn7Ma3' @ 0 : 0; will stop at (end)
+2025/04/25-18:05:09.266 639c Manual compaction at level-1 from '!journal!DgSmxMOSbH6VpRrg' @ 72057594037927935 : 1 .. '!journal.pages!nP3YFiEtCypw5kvn.ZIvSGEavm9pn7Ma3' @ 0 : 0; will stop at (end)
