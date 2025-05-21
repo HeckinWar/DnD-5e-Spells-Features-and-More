@@ -1,14 +1,42 @@
-2025/05/21-09:13:53.708 802c Recovering log #885
-2025/05/21-09:13:53.709 802c Delete type=0 #885
-2025/05/21-09:13:53.709 802c Delete type=3 #884
-2025/05/21-10:09:24.259 5398 Level-0 table #889: started
-2025/05/21-10:09:24.260 5398 Level-0 table #889: 41033 bytes OK
-2025/05/21-10:09:24.261 5398 Delete type=0 #887
-2025/05/21-10:09:24.261 5398 Manual compaction at level-0 from '!folders!0UtRZOE2DWvSucK5' @ 72057594037927935 : 1 .. '!tables.results!ykn2ykzEnxSZms3J.d0KENCduwns9WL0Z' @ 0 : 0; will stop at '!tables.results!yg2j6yiU9sGQwE49.syF926NgKlFFwvlL' @ 35674 : 0
-2025/05/21-10:09:24.261 5398 Compacting 1@0 + 1@1 files
-2025/05/21-10:09:24.262 5398 Generated table #890@0: 688 keys, 96678 bytes
-2025/05/21-10:09:24.262 5398 Compacted 1@0 + 1@1 files => 96678 bytes
-2025/05/21-10:09:24.263 5398 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/21-10:09:24.263 5398 Delete type=2 #879
-2025/05/21-10:09:24.263 5398 Delete type=2 #889
-2025/05/21-10:09:24.268 5398 Manual compaction at level-0 from '!tables.results!yg2j6yiU9sGQwE49.syF926NgKlFFwvlL' @ 35674 : 0 .. '!tables.results!ykn2ykzEnxSZms3J.d0KENCduwns9WL0Z' @ 0 : 0; will stop at (end)
+2025/05/21-11:53:22.349 71a4 Recovering log #892
+2025/05/21-11:53:22.349 71a4 Level-0 table #894: started
+2025/05/21-11:53:22.350 71a4 Level-0 table #894: 10662 bytes OK
+2025/05/21-11:53:22.351 71a4 Delete type=2 #160
+2025/05/21-11:53:22.351 71a4 Delete type=0 #169
+2025/05/21-11:53:22.351 71a4 Delete type=0 #173
+2025/05/21-11:53:22.351 71a4 Delete type=0 #221
+2025/05/21-11:53:22.351 71a4 Delete type=0 #278
+2025/05/21-11:53:22.351 71a4 Delete type=0 #407
+2025/05/21-11:53:22.351 71a4 Delete type=0 #425
+2025/05/21-11:53:22.351 71a4 Delete type=0 #458
+2025/05/21-11:53:22.351 71a4 Delete type=0 #524
+2025/05/21-11:53:22.351 71a4 Delete type=2 #530
+2025/05/21-11:53:22.351 71a4 Delete type=0 #582
+2025/05/21-11:53:22.351 71a4 Delete type=0 #652
+2025/05/21-11:53:22.352 71a4 Delete type=2 #690
+2025/05/21-11:53:22.352 71a4 Delete type=0 #691
+2025/05/21-11:53:22.352 71a4 Delete type=0 #727
+2025/05/21-11:53:22.352 71a4 Delete type=2 #728
+2025/05/21-11:53:22.352 71a4 Delete type=2 #756
+2025/05/21-11:53:22.352 71a4 Delete type=0 #770
+2025/05/21-11:53:22.352 71a4 Delete type=0 #892
+2025/05/21-11:53:22.352 71a4 Delete type=3 #167
+2025/05/21-11:53:22.352 71a4 Delete type=3 #171
+2025/05/21-11:53:22.352 71a4 Delete type=3 #219
+2025/05/21-11:53:22.352 71a4 Delete type=3 #277
+2025/05/21-11:53:22.352 71a4 Delete type=3 #405
+2025/05/21-11:53:22.352 71a4 Delete type=3 #423
+2025/05/21-11:53:22.352 71a4 Delete type=3 #457
+2025/05/21-11:53:22.352 71a4 Delete type=3 #523
+2025/05/21-11:53:22.352 71a4 Delete type=3 #581
+2025/05/21-11:53:22.352 71a4 Delete type=3 #651
+2025/05/21-11:53:22.353 71a4 Delete type=3 #689
+2025/05/21-11:53:22.353 71a4 Delete type=3 #726
+2025/05/21-11:53:22.353 71a4 Delete type=3 #769
+2025/05/21-11:53:22.353 71a4 Delete type=3 #891
+2025/05/21-11:53:22.523 80dc Compacting 1@0 + 1@1 files
+2025/05/21-11:53:22.526 80dc Generated table #896@0: 697 keys, 97209 bytes
+2025/05/21-11:53:22.526 80dc Compacted 1@0 + 1@1 files => 97209 bytes
+2025/05/21-11:53:22.527 80dc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/21-11:53:22.527 80dc Delete type=2 #890
+2025/05/21-11:53:22.527 80dc Delete type=2 #894

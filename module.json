@@ -1,14 +1,14 @@
 {
   "id": "dnd-5e-spells-features-and-more",
   "title": "DnD 5e Spells, Features, & More",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "compatibility": {
     "minimum": "11.0",
     "verified": "12.331"
   },
   "url": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More",
-  "manifest": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/module.json",
-  "download": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/DnD-5e-Spells-Features-and-More.zip",
+  "manifest": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.3.3/module.json",
+  "download": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.3.3/DnD-5e-Spells-Features-and-More.zip",
   "flags":{
     "dnd5e":{
       "sourceBooks":{
