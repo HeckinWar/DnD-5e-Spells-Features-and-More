@@ -1,7 +1,7 @@
 {
   "id": "dnd-5e-spells-features-and-more",
   "title": "DnD 5e Spells, Features, & More",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "compatibility": {
     "minimum": "11.0",
     "verified": "12.331"
@@ -11,6 +11,32 @@
   "download": "https://github.com/HeckinWar/DnD-5e-Spells-Features-and-More/releases/download/0.0.1/DnD-5e-Spells-Features-and-More.zip",
   "flags":{
     "dnd5e":{
+      "sourceBooks":{
+        "Acquisitions Inc.": "Acquisitions Incorporated",
+        "Curse of Strahd": "Curse of Strahd",
+        "Dungeon Master's Guide": "Dungeon Master's Guide (2014)",
+        "Dragonlance": "Dragonlance: Shadow of the Dragon Queen", 
+        "Eberron": "Eberron - Rising from the Last War",
+        "Elemental Evil Player's Companion": "Elemental Evil Player's Companion",
+        "Explorers Guide to Wildmound": "Explorer's Guide to Wildemount",
+        "Fizban's Treasury of Dragons": "Fizban's Treasury of Dragons",
+        "Guildmaster's Guide to Ravnica": "Guildmaster's Guide to Ravnica",
+        "Icewind Dale": "Icewind Dale - Rime of the Frostmaiden",
+        "Lost Laboratory of Kwalish": "Lost Laboratory of Kwalish",
+        "Monster Manual": "Monster Manual (2014)",
+        "Mythic Odysseys of Theros": "Mythic Odysseys of Theros",
+        "Planescape":"Planescape - Adventures in the Multiverse",
+        "Player's Handbook":"Player's Handbook (2014)",
+        "Spelljammer":"Spelljammer: Adventures in Space",
+        "Strixhaven":"Strixhaven: A Curriculum of Chaos",
+        "Sword Coast Adventurer's Guide":"Sword Coast Adventurer's Guide",
+        "Tasha's Cauldron of Everything":"Tasha's Cauldron of Everything",
+        "Tomb of Annihilation": "Tomb of Annihilation",
+        "The Book of Many Things":"The Book of Many Things",
+        "The Wild Beyond the Witchlight":"The Wild Beyond the Witchlight",
+        "Volo's Guide to Monsters":"Volo's Guide to Monsters",
+        "Xanathar's Guide to Everything":"Xanathar's Guide to Everything"
+      },
       "spellLists": [
         "Compendium.dnd-5e-spells-features-and-more.journels.JournalEntry.dH3nF3ZkrTaGdlnN.JournalEntryPage.Kxu9HjuSg5EOliDS",
         "Compendium.dnd-5e-spells-features-and-more.journels.JournalEntry.dH3nF3ZkrTaGdlnN.JournalEntryPage.4EYuiGJNvgJxe8td",
